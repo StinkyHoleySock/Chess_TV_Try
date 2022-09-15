@@ -1,13 +1,8 @@
 # Chess_TV_Try
-draft diploma work
+Diploma work
 
-(Описание будет обновлено)
+Chess streaming service
 
-Шахматный видеостриминговый сервис
+Stack: Kotlin Coroutines, MVVM, Firebase, ExoPlayer, jsoup
 
-Черновик дипломной работы. 
-- Парсинг новостей (Jsoup, RecyclerView, Picasso)
-- WebView YouTube будет заменён на парсинг
-- Пример страницы профиля
-
-Дизайн: https://www.figma.com/file/jDDvkSKuMP3j6GukiX2aHp/ChessTV?node-id=0%3A1
+Design: https://www.figma.com/file/jDDvkSKuMP3j6GukiX2aHp/ChessTV?node-id=0%3A1
